@@ -34,7 +34,9 @@ This capstone project presents a comprehensive data-driven analysis of how digit
 - 📊 Tableau dashboard exploring digital wellbeing patterns
 - 💡 Derived Work-Life Balance & Mood metrics
 - 📁 Data-driven insights using real-life behavior patterns
+
+### 📈 Dashboard Link: https://public.tableau.com/views/DigitalWellbeing/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
   
 ### 🎯 Goal
-To explore whether digital fatigue — stemming from screen exposure, remote meetings, and reduced physical activity — correlates with poor mental health and reduced productivity. This can help workplaces make better wellness policy decisions.
+To explore whether digital fatigue, stemming from screen exposure, remote meetings, and reduced physical activity that correlates with poor mental health and reduced productivity. This can help workplaces make better wellness policy decisions.
 
