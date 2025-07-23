@@ -15,7 +15,7 @@ This capstone project presents a comprehensive data-driven analysis of how digit
 
 3) Impact of Zoom Hours + Sleep Time on Mood
 
-4) Sleep Hours vs Burnout
+4) How zoom meetings impact stress scores
 
 5) Does Exercise Improve Productivity?
 
